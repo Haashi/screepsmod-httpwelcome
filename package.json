@@ -1,0 +1,19 @@
+{
+  "name": "screepsmod-httpwelcome",
+  "version": "0.1.0",
+  "description": "Change welcoming http message on servername:serverport connection from browser to use a static webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screeps",
+    "mod"
+  ],
+  "author": "Baptiste Pontanier",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ini": "^1.3.5"
+  }
+}
