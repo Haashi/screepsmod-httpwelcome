@@ -8,6 +8,8 @@ A mod for the [Screeps](https://screeps.com/) private server that allows to serv
 npm install screepsmod-httpwelcome
 ```
 
+Then add the mod in mods.json.
+
 ## Configuration
 
 Default folder used as to serve static content is 'static'.
